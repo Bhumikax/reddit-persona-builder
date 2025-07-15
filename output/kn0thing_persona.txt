@@ -1,0 +1,34 @@
+---
+User Persona for: kn0thing
+
+### Interests
+- **Technology and Entrepreneurship:** The user is a co-founder of a major tech platform and is involved in new ventures, collaborations, and the broader tech ecosystem. (from: “I co-founded Reddit 15 years ago…” and “Once Rival CEOs, Kevin Rose and I are working on something new...”)
+- **Politics and Social Activism:** They are politically aware and engaged, openly opposing government policies and advocating for specific causes like immigration rights and racial justice. (from: “President Trump’s recent executive order is not only potentially unconstitutional, but deeply un-American.” and “I’m starting with a pledge of $1M to Colin Kaepernick’s Know Your Rights Camp.”)
+- **Cryptocurrency:** They follow and write about key figures in the crypto space. (from: “TIME asked me to write a little piece about Vitalik Buterin…”)
+- **Family History and Genealogy:** They have a deep connection to their family's immigrant story and history, which they share in detail. (from: “I am the son of an undocumented immigrant from Germany and the great grandson of refugees who fled the Armenian Genocide.”)
+- **Sports:** The user follows and supports specific sports teams and events. (from: “Thank you! UP THE CHELS!” and “…Excited to show you all the Greatest Show in Track & Field this October 10th…”)
+
+### Personality Traits
+- **Principled and Decisive:** Willing to take significant, public action based on their moral convictions. (from: “I have resigned as a member of the reddit board, I have urged them to fill my seat with a black candidate…”)
+- **Family-Motivated:** Their family, including their ancestors and children, are a primary driver for their major life and career decisions. (from: “I’m writing this as a father who needs to be able to answer his black daughter when she asks: ‘What did you do?’”)
+- **Inspirational and Outspoken:** They use their platform to speak out on issues they believe in, often in an eloquent and moving way. (from: “Right now, Lady Liberty’s lamp is dimming, which is why it's more important than ever that we speak out and show up to support all those for whom it shines…”)
+- **Optimistic and Enthusiastic:** In more casual interactions, they express excitement and a positive outlook. (from: “I believe! This is gonna be fun.”)
+- **Collaborative:** Believes in a non-zero-sum approach to business and community building. (from: “I don't think it's a winner-take-all environment, we'll just do the best we can…”)
+- **Hands-on and Community-Oriented:** Values direct, personal interaction as a way to build community. (from: “I must've hand-mailed like thousands of shirts + bobbles and more — the short-answer is: yes! I believe it was one of the reasons we were able to build the community we built here on reddit.”)
+
+### Common Themes
+- **The Immigrant Experience as the American Identity:** The user frequently returns to the idea that immigration is a fundamental and positive force in America. (from: “Welcoming immigrants and refugees has been our country's unfair advantage, and coming from an immigrant family has been mine as an entrepreneur.”)
+- **Leadership Through Action and Sacrifice:** They frame resignation not as a failure, but as a powerful form of leadership. (from: “I believe resignation can actually be an act of leadership from people in power right now.”)
+- **Legacy and Social Responsibility:** There's a strong sense of acting for the benefit of future generations and being on the right side of history. (from: “I’m doing this for me, for my family, and for my country.”)
+- **Community and Belonging:** This is a core value, both in their professional work and personal advocacy. (from: “I co-founded Reddit 15 years ago to help people find community and a sense of belonging.”)
+
+### Writing Style
+- **Narrative and Persuasive (in long-form):** They often use personal and family stories to build an emotional connection and argue a broader political or social point. (from: The entire structure of the "Open Letter to the Reddit Community" post.)
+- **Direct and Declarative (for announcements):** When making a significant statement, their writing is short, clear, and impactful. (from: The post announcing his resignation is concise and to the point.)
+- **Inspirational and Metaphorical:** Uses powerful imagery and quotes to rally support and convey conviction. (from: “*I lift my lamp beside the golden door!*” and “Right now, Lady Liberty’s lamp is dimming…”)
+- **Casual and Enthusiastic (in comments):** Their comment-section voice is much more informal, using exclamation points and brief, positive affirmations. (from: “Thank you!! Excited to show you all…” and “UP THE CHELS!”)
+
+### Any notable patterns or beliefs
+- **Belief in Immigration as a National Strength:** This is a core, frequently-stated belief that they see as a competitive advantage for the country. (from: “Welcoming immigrants and refugees has been our country's unfair advantage…”)
+- **Commitment to Anti-Racism:** The user demonstrates a belief that it is not enough to be non-racist; one must be actively anti-racist, taking concrete steps to dismantle systemic issues. (from: “…urged them to fill my seat with a black candidate, and I will use future gains on my Reddit stock to serve the black community, chiefly to curb racial hate…”)
+- **Call to Action:** Their posts often end with a direct appeal for the reader to do something, whether it's sharing a story, calling a representative, donating, or protesting. (from: “I ask you to do this however you see fit…”)

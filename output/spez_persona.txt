@@ -1,0 +1,27 @@
+---
+User Persona for: spez
+
+### Interests
+- **Reddit Platform Development & Strategy:** The user is deeply involved in the technical and strategic direction of Reddit, discussing earnings, product roadmaps, and the platform's mission. (from: “Today, we see Reddit as having two superpowers: community and knowledge. At the end of last year, we updated our mission statement to reflect both: **Empower communities, and make their knowledge accessible to everyone.**”)
+- **Artificial Intelligence:** Shows a keen interest in leveraging AI for platform improvements like search, moderation, and user assistance. (from: “Reddit Answers—our AI-powered search tool—is live in nine countries...”)
+- **Community Management & Moderation:** Frequently addresses moderators directly, acknowledging their importance and focusing on building tools to support them. (from: “Our vision is to shift the primary role of a moderator from policing to community cultivation. We’ll get there with better tools—especially more AI-driven automation...”)
+- **Web Design & User Experience:** Discusses the specifics of site redesigns, CSS implementation, and the usability of different Reddit versions. (from: “Based on your feedback, we will allow you to continue to use CSS on top of the new structured styles.”)
+- **Reddit Culture & Memes:** Engages with and uses internet-native slang and concepts, demonstrating an understanding of the platform's culture. (from: “I am prepared to see some truly blursed Snoos.”)
+
+### Personality Traits
+- **Self-Deprecating & Self-Aware:** Acknowledges his own reputation and the platform's shortcomings with a touch of humor. (from: “...when I do show up, it usually means something’s gone sideways (and if it’s not gone sideways, it’s probably about to).”)
+- **Pragmatic:** Makes decisions based on technical limitations and business needs, even if they are unpopular, while explaining the reasoning. (from: “old.reddit... doesn’t scale, it’s impossible to develop on... We’ll figure out how to work around it and keep it online as long as people are using it.”)
+- **Corporate but Relatable:** Blends formal, corporate communication with casual language and attempts at humor to connect with the user base. (from: “Sunsetting old.reddit... Just kidding. I don’t know why I say stuff like this.”)
+- **Humorous (with a trollish edge):** Enjoys making provocative jokes and acknowledges the community's negative sentiment towards him in a playful manner. (from: “2.2 million players joined our April Fools’ Day event, r/field (with roughly half in my honor\*)” [links to a graph of "fuck spez" mentions])
+
+### Common Themes
+- **Balancing Community and Corporate Needs:** A central theme is the tension between maintaining Reddit's authentic, community-driven nature and the need to evolve, monetize, and meet business/regulatory goals. (from: “To keep Reddit human and to meet evolving regulatory requirements, we are going to need a little more information... But **we never** want to know your name or who you are.”)
+- **The "Human" Value of Reddit:** Repeatedly emphasizes that the platform's core value lies in its authentic, human-to-human interactions. (from: “**Reddit works because it’s human**. It’s one of the few places online where real people share real opinions. That authenticity is what gives Reddit its value.”)
+- **Platform Evolution and Modernization:** The posts consistently focus on the future of Reddit, detailing plans for improving core features like search, moderation, and the user interface. (from: “Our goal is to make Reddit the best version of itself by being faster, better, and easier to use.”)
+- **Communicating Through Controversy:** A pattern of posting to directly address community feedback and concerns, particularly regarding major platform changes. (from: “I hear the feedback on CSS / styles. I’m traveling, but will be back next week to chat more.”)
+
+### Writing Style
+- **Structured Corporate Announcements:** Long posts are well-organized with clear headings, bullet points, and links, resembling official memos or press releases. (from: The overall structure of the “Reddit’s next chapter” post with bolded sections like **Core product improvements**, **Moderation**, etc.)
+- **Conversational and Informal:** Injects casual language, contractions, and direct address to make formal announcements feel more personal. (from: “I know you’d like to see a list of everything, but we think the best approach will be to show instead of tell... Cool? Cool.”)
+- **Short and Pithy:** When not making major announcements, comments are often brief, meme-adjacent, or simple acknowledgments. (from: “Noted.” or “TFW you open Reddit at 3am.”)
+- **Humorous Asides and Footnotes:** Uses footnotes and parenthetical statements to add self-aware humor or extra context to formal statements. (from: “...we will no longer be treading as carefully as we have done in the past about breaking styles applied through CSS^1. ... ^1 No snark allowed.”)
